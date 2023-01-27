@@ -7,9 +7,9 @@ Thanks for stopping by!
 
 <p align="left"> <a href="https://twitter.com/kennisjpeg" target="blank"><img src="https://img.shields.io/twitter/follow/kennisjpeg?logo=twitter&style=for-the-badge" alt="kennisjpeg" /></a> </p>
 
-- 🌱 I’m currently learning **Flask** 
+- 🌱 I’m currently learning **DevOps** 
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, MERN Stack**
 
 - 📫 How to reach me **kennisjoseph5@gmail.com**
 
