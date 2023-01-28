@@ -14,7 +14,8 @@ Thanks for stopping by!
 - 📫 How to reach me **kennisjoseph5@gmail.com**
 
 - ⚡ Fun fact **I love Anime (fav: One Piece)**
-- 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kennisjoseph&theme=java-dark&hide_border=true&border_radius=70)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
